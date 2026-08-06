@@ -48,3 +48,29 @@ I gained practical experience with network segmentation, IP addressing, DHCP, DN
 This project supports my long-term goal of developing deeper expertise in network engineering and cybersecurity.
 
 I am particularly interested in building secure, reliable network infrastructure and continuing to develop my skills through advanced study and practical projects.
+
+## Practical Evidence
+
+### 1. Access Point Configuration
+
+This exercise demonstrates practical configuration and understanding of wireless network infrastructure.
+
+![Access Point Configuration](access-point-configuration.png)
+
+### 2. Inter-VLAN Routing and DHCP
+
+This exercise demonstrates network segmentation using VLANs and configuration of DHCP services for network connectivity.
+
+![Inter-VLAN Routing and DHCP](inter-vlan-routing-dhcp.png)
+
+### 3. Networking Exercise
+
+This exercise documents practical networking configuration and troubleshooting work completed during my hands-on learning.
+
+![Networking Exercise](networking-exercise.png)
+
+### 4. OSPFv6 and IPv6 Routing
+
+This exercise demonstrates practical exposure to IPv6 networking and OSPFv3/OSPFv6 routing concepts.
+
+![OSPFv6 IPv6 Routing](ospfv6-ipv6-routing.png)
