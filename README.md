@@ -55,22 +55,24 @@ I am particularly interested in building secure, reliable network infrastructure
 
 This exercise demonstrates practical configuration and understanding of wireless network infrastructure.
 
-![Access Point Configuration](access-point-configuration.png)
+![Access Point Configuration](pics/access-point-configuration.png)
 
 ### 2. Inter-VLAN Routing and DHCP
 
 This exercise demonstrates network segmentation using VLANs and configuration of DHCP services for network connectivity.
 
-![Inter-VLAN Routing and DHCP](inter-vlan-routing-dhcp.png)
+![Inter-VLAN Routing and DHCP](pics/inter-vlan-routing-dhcp.png)
 
 ### 3. Networking Exercise
 
 This exercise documents practical networking configuration and troubleshooting work completed during my hands-on learning.
 
-![Networking Exercise](networking-exercise.png)
+![Networking Exercise](pics/networking-exercise.png)
 
 ### 4. OSPFv6 and IPv6 Routing
 
 This exercise demonstrates practical exposure to IPv6 networking and OSPFv3/OSPFv6 routing concepts.
 
-![OSPFv6 IPv6 Routing](ospfv6-ipv6-routing.png)
+![OSPFv6 IPv6 Routing](pics/ospfv6-ipv6-routing.png)
+
+---
